@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="Let's test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bmushCycTCGvA47tdcUmyJNAxC" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33678162&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProgramTest">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="ActionTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActionTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActionTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActionTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionTest-1.0-SNAPSHOT-tests.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/ActionTest-1.0-SNAPSHOT-tests.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProgramTest" />
+        <item itemvalue="JUnit.ProgramTest.add" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="JAR Application.ActionTest-1.0-SNAPSHOT-tests.jar" />
+        <item itemvalue="JUnit.All in ActionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dde7a5f6-b166-4bb7-a6f1-5f95a6cc37fb" name="Changes" comment="" />
+      <created>1706832784294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706832784294</updated>
+      <workItem from="1706832785529" duration="2198000" />
+      <workItem from="1706881974447" duration="6999000" />
+      <workItem from="1706893000529" duration="1634000" />
+      <workItem from="1706907218719" duration="225000" />
+      <workItem from="1706907631603" duration="26000" />
+      <workItem from="1706907699508" duration="3820000" />
+      <workItem from="1706915060745" duration="371000" />
+      <workItem from="1706915617352" duration="1612000" />
+      <workItem from="1706920477081" duration="1127000" />
+      <workItem from="1706957468937" duration="1659000" />
+      <workItem from="1706971725514" duration="2852000" />
+      <workItem from="1707000520346" duration="448000" />
+      <workItem from="1707001006343" duration="83000" />
+    </task>
+    <task id="LOCAL-00001" summary="fixed">
+      <created>1706832963058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706832963058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed 2">
+      <created>1706833164731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706833164731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed 3">
+      <created>1706833275094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706833275094</updated>
+    </task>
+    <task id="LOCAL-00004" summary="moved test class">
+      <created>1706834085409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706834085409</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added test">
+      <created>1706882225455</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706882225455</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added niente">
+      <created>1706882754204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706882754204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ci si prova">
+      <created>1706883304056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706883304056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ci si prova">
+      <created>1706883403505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706883403505</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ci si prova 2">
+      <created>1706884394366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706884394366</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ci si prova 3">
+      <created>1706884669310</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706884669310</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ci si prova 34">
+      <created>1706886140989</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886140989</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ci si prova 69">
+      <created>1706886289973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886289973</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ci si prova 420">
+      <created>1706886362696</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886362696</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ci si prova 423">
+      <created>1706886447999</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886447999</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ci si prova 4883">
+      <created>1706886529194</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886529194</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ci si prova 43088">
+      <created>1706886645958</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886645958</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ci si prova hh">
+      <created>1706886933320</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706886933320</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ci si prova hh88">
+      <created>1706887062610</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706887062610</updated>
+    </task>
+    <task id="LOCAL-00019" summary="O la va o la spacca">
+      <created>1706888597868</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706888597868</updated>
+    </task>
+    <task id="LOCAL-00020" summary="O la va o la va">
+      <created>1706893887771</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1706893887771</updated>
+    </task>
+    <task id="LOCAL-00021" summary="spetta un attimo">
+      <created>1706908378958</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1706908378958</updated>
+    </task>
+    <task id="LOCAL-00022" summary="packaggeato">
+      <created>1706908574413</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1706908574413</updated>
+    </task>
+    <task id="LOCAL-00023" summary="pa????">
+      <created>1706908870011</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1706908870011</updated>
+    </task>
+    <task id="LOCAL-00024" summary="checazzo">
+      <created>1706909057111</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706909057111</updated>
+    </task>
+    <task id="LOCAL-00025" summary="checazzo">
+      <created>1706909194053</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1706909194053</updated>
+    </task>
+    <task id="LOCAL-00026" summary="checazzo2">
+      <created>1706912956172</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706912956172</updated>
+    </task>
+    <task id="LOCAL-00027" summary="checazzo2">
+      <created>1706913132370</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1706913132370</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Prova Finale">
+      <created>1706921857397</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1706921857397</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Oopsie">
+      <created>1706958016246</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1706958016246</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fix">
+      <created>1706969761925</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706969761925</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Let's dance">
+      <created>1706974981478</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706974981478</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Let's dance">
+      <created>1706975140951</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1706975140951</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Let's test">
+      <created>1706975300579</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706975300579</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Let's test">
+      <created>1707000612705</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1707000612705</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added test" />
+    <MESSAGE value="added niente" />
+    <MESSAGE value="ci si prova" />
+    <MESSAGE value="ci si prova 2" />
+    <MESSAGE value="ci si prova 3" />
+    <MESSAGE value="ci si prova 34" />
+    <MESSAGE value="ci si prova 69" />
+    <MESSAGE value="ci si prova 420" />
+    <MESSAGE value="ci si prova 423" />
+    <MESSAGE value="ci si prova 4883" />
+    <MESSAGE value="ci si prova 43088" />
+    <MESSAGE value="ci si prova hh" />
+    <MESSAGE value="ci si prova hh88" />
+    <MESSAGE value="O la va o la spacca" />
+    <MESSAGE value="O la va o la va" />
+    <MESSAGE value="spetta un attimo" />
+    <MESSAGE value="packaggeato" />
+    <MESSAGE value="pa????" />
+    <MESSAGE value="checazzo" />
+    <MESSAGE value="checazzo2" />
+    <MESSAGE value="Prova Finale" />
+    <MESSAGE value="Oopsie" />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="Let's dance" />
+    <MESSAGE value="Let's test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Let's test" />
+  </component>
+</project>
